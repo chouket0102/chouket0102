@@ -15,7 +15,7 @@ I’m passionate about building web applications and exploring the world of Mach
 ## 🚀 What I'm Up To
 
 <p align="left">
-🔍 <strong>Machine Learning:</strong> Playing with scikit-learn – classification, regression, clustering.<br>
+🔍 <strong>Machine Learning:</strong> Exploring Machine Learning with scikit-learn.<br>
 🌐 <strong>Full-Stack Development:</strong> Crafting web apps with <em>Spring Boot</em> and <em>Next.js</em>.<br>
 🔧 <strong>Data Engineering:</strong> Building data pipelines, working with databases, and ETL processes.
 </p>
