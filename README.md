@@ -1,61 +1,65 @@
-<h1 align="center">👋 Hi, I'm Yasser Chouket</h1>
-<p align="center">💻 Software Engineering Student | 🌍 Web Developer | 🤖 ML Enthusiast</p>
+<!---------------------------- Typewriter animation ----------------------------->
+# Hello👋, I'm Yasser Chouket!😇
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineer+💻;I'm+a+Web+Developer+🌍;I'm+a+ML+Enthusiast+🤖)
 
----
 
-## 👨‍💻 About Me
+<!---------------------------- About Me ----------------------------->
+
+<!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
+
+- 🔍 <strong>Machine Learning:</strong> Exploring Machine Learning with <em>scikit-learn</em> and <em>TensorFlow</em>.<br>
+- 🌐 <strong>Web Development:</strong> Building web apps with <em>React</em>, <em>Flask</em>, and <em>Spring Boot</em>.<br>
+- 🔧 <strong>Data Engineering:</strong> Crafting data pipelines, managing ETL workflows, and optimizing SQL queries.<br>
+<br>
+<br>
+
+
+<!---------------------------- My Skills Section ----------------------------->
+## 💻 Tech Backpack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,bootstrap,nodejs,expressjs,php,symfony,java,spring,python,flask,mongodb,postgres,mysql,firebase,git,github,postman,cpp,cs," align="center">
+<br>
+
+
+<!----------------------------- Open Source Projects --------------------------->
+## 🔖 Some of my Repositories
 
 <p align="left">
-I'm a Software Engineering student at <strong>INSAT</strong>, based in Tunisia 🇹🇳.<br>
-I’m passionate about building web applications and exploring the world of Machine Learning.
-</p>
-
-
-
-## 🚀 What I'm Up To
-
-<p align="left">
-🔍 <strong>Machine Learning:</strong> Exploring Machine Learning with scikit-learn.<br>
-🌐 <strong>Full-Stack Development:</strong> Crafting web apps with <em>Spring Boot</em> and <em>Next.js</em>.<br>
-🔧 <strong>Data Engineering:</strong> Building data pipelines, working with databases, and ETL processes.
-</p>
-
-
-
-## 🛠️ Languages & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus"/>
-</div>
-
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasser-chouket-9b15b8285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/chouket0102/patient-system">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chouket0102&repo=patient-system&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="patient-system">
   </a>
-  <a href="https://www.facebook.com/yasser.chouket.1/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://github.com/chouket0102/virtual-interview">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chouket0102&repo=virtual-interview&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="virtual-interview">
+  </a>
+  <a href="https://github.com/chouket0102/serverlessAI-agent">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chouket0102&repo=serverlessAI-agent&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="serverlessAI-agent">
+  </a>
+  <a href="https://github.com/chouket0102/ml-project">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chouket0102&repo=ml-project&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="ml-project">
   </a>
 </p>
 
----
+<p align="left">
+  <a href="https://github.com/chouket0102?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+<br>
+<br>
+
+
+<!--------------------------------- Social Links --------------------------------->
+## 🤝🏻 Connect with Me
+
+<p align="left">
+<a href="yasserchouket2101@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/yasser-chouket-9b15b8285/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+
+<!---------------------------------  Marquee Animation  ------------------------>
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
