@@ -1,6 +1,6 @@
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, I'm Yasser Chouket!😇
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineer+💻;I'm+a+Web+Developer+🌍;I'm+a+ML+Enthusiast+🤖)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineering+Student+💻;I'm+a+Web+Developer+🌍;I'm+a+ML+Enthusiast+🤖)
 
 
 <!---------------------------- About Me ----------------------------->
