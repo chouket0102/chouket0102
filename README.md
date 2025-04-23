@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 
 - 🔍 <strong>Machine Learning:</strong> Exploring Machine Learning with <em>scikit-learn</em> and <em>TensorFlow</em>.<br>
-- 🌐 <strong>Web Development:</strong> Building web apps with <em>React</em>, <em>Flask</em>, and <em>Spring Boot</em>.<br>
+- 🌐 <strong>Web Development:</strong> Building web apps with <em>React</em>, and <em>Spring Boot</em>.<br>
 - 🔧 <strong>Data Engineering:</strong> Crafting data pipelines, managing ETL workflows, and optimizing SQL queries.<br>
 <br>
 <br>
