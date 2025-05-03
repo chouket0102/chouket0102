@@ -18,7 +18,7 @@
 <!---------------------------- My Skills Section ----------------------------->
 ## 💻 Tech Backpack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,bootstrap,nodejs,expressjs,php,symfony,java,spring,python,flask,mongodb,postgres,mysql,firebase,git,github,postman,cpp,cs," align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,bootstrap,nodejs,expressjs,php,symfony,java,spring,kafka,python,flask,mongodb,postgres,mysql,firebase,git,github,postman,cpp,cs," align="center">
 <br>
 
 
