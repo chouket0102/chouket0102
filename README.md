@@ -6,7 +6,7 @@
 <!---------------------------- About Me ----------------------------->
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="200" width="325" />
 
 - 🔍 <strong>Machine Learning:</strong> Exploring Machine Learning with <em>scikit-learn</em> and <em>TensorFlow</em>.<br>
 - 🌐 <strong>Web Development:</strong> Building web apps with <em>React</em>, and <em>Spring Boot</em>.<br>
