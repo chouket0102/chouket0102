@@ -37,15 +37,14 @@
 <!--------------------------------- Social Links --------------------------------->
 ## 🤝🏻 Connect with Me
 
-<p align="left">
-<a  href="yasserchouket2101@gmail.com" style="text-decoration:none" >
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/yasser-chouket-9b15b8285/" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yasser-chouket-9b15b8285/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:yasserchouket0102@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
 
 
 <!---------------------------------  Marquee Animation  ------------------------>
